@@ -1,36 +1,57 @@
 # Tejas Dhamankar
 
-## 👋 Hello! I'm Tejas
+## 👨‍💻 Full-Stack Developer
 
-I'm a passionate Full-Stack Developer with a love for creating dynamic and user-friendly applications. My journey in tech has been fueled by curiosity and a desire to solve problems through coding. I pride myself on being able to take a project from concept to completion, ensuring that every part of the development process is executed with precision and creativity.
+---
 
-## 🌟 About Me
+### About Me
 
-I've had the opportunity to work on a wide range of projects, from small-scale websites to complex applications. I thrive in collaborative environments and am always eager to learn new technologies that can enhance my skill set. My goal is to leverage my skills to create impactful projects that can make a difference in the world.
+Hello! I'm Tejas Dhamankar, a passionate full-stack developer with a knack for creating seamless user experiences and robust backend solutions. I love working with modern technologies and continuously strive to keep up with the latest trends in the development world.
 
-## 💻 Tech Stack
+---
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+### Tech Stack
 
-## 🚀 Featured Project: [ZapTick](https://github.com/TejasDhamankar/ZapTick)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github" />
+</p>
 
-ZapTick is an innovative project that simplifies task management and boosts productivity. Built with a modern stack, it emphasizes user experience and seamless functionality.
+---
 
-## 📊 GitHub Stats
+### Featured Project: [ZapTick](https://zaptick.io)
 
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasDhamankar&count_private=true&show_icons=true&theme=radical)
+ZapTick is a powerful platform designed to optimize communication through various innovative features:
+- **Broadcast Messaging Campaigns**
+- **Workflow Automation**
+- **AI Chatbots**
+- **Team Inbox**
+- **Analytics Dashboard**
+- **CRM Integrations**
 
-## 📫 Contact Me
+---
 
-- **Email:** tejas@example.com  
-- **LinkedIn:** [Tejas Dhamankar](https://www.linkedin.com/in/tejasdhamankar)  
-- **Twitter:** [@TejasDhamankar](https://twitter.com/TejasDhamankar)  
+### Other Projects
 
-Feel free to reach out to me for collaborations, opportunities, or just a chat about technology!
+- [Project 1](#) - Brief description of the project.
+- [Project 2](#) - Brief description of the project.
+
+---
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasDhamankar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TejasDhamankar&theme=radical)
+
+---
+
+### Contact Information
+
+- **Email**: [dhamankartejas14@gmail.com](mailto:dhamankartejas14@gmail.com)
+- **Phone**: +91 8262869754
+- **Portfolio**: [portfolio-tejas-murex.vercel.app](https://portfolio-tejas-murex.vercel.app)
+- **[Download Resume](assets/Tejas_Dhamankar_Resume.pdf)**
+
+---
+
+**Last Updated on: 2026-03-06 08:43:04 (UTC)**
