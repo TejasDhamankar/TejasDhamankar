@@ -9,7 +9,7 @@ Building scalable web applications, automation systems, and AI-powered communica
 <a href="mailto:dhamankartejas14@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
 </a>
-<a href="https://portfolio-tejas-murex.vercel.app">
+<a href="https://tejas-portfolio-roan.vercel.app/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel">
 </a>
 <a href="https://github.com/TejasDhamankar">
@@ -117,7 +117,7 @@ dhamankartejas14@gmail.com
 +91 8262869754
 
 🌐 Portfolio  
-https://portfolio-tejas-murex.vercel.app
+https://tejas-portfolio-roan.vercel.app/
 
 📄 Resume  
 [Download Resume](assets/Tejas_Dhamankar_Resume.pdf)
