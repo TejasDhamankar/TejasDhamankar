@@ -1,57 +1,129 @@
-# Tejas Dhamankar
-
-## 👨‍💻 Full-Stack Developer
-
----
-
-### About Me
-
-Hello! I'm Tejas Dhamankar, a passionate full-stack developer with a knack for creating seamless user experiences and robust backend solutions. I love working with modern technologies and continuously strive to keep up with the latest trends in the development world.
-
----
-
-### Tech Stack
+<h1 align="center">Tejas Dhamankar</h1>
+<h3 align="center">Full-Stack Developer | AI Systems | Messaging Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,express,mongodb,git,github" />
+Building scalable web applications, automation systems, and AI-powered communication platforms.
+</p>
+
+<p align="center">
+<a href="mailto:dhamankartejas14@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail">
+</a>
+<a href="https://portfolio-tejas-murex.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=flat&logo=vercel">
+</a>
+<a href="https://github.com/TejasDhamankar">
+<img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github">
+</a>
 </p>
 
 ---
 
-### Featured Project: [ZapTick](https://zaptick.io)
+# About Me
 
-ZapTick is a powerful platform designed to optimize communication through various innovative features:
-- **Broadcast Messaging Campaigns**
-- **Workflow Automation**
-- **AI Chatbots**
-- **Team Inbox**
-- **Analytics Dashboard**
-- **CRM Integrations**
+I am a **full-stack developer** focused on building scalable applications and intelligent automation systems.
 
----
+My work combines **modern web technologies, AI integrations, and messaging infrastructure** to build real-world systems that solve operational problems.
 
-### Other Projects
+I enjoy building:
 
-- [Project 1](#) - Brief description of the project.
-- [Project 2](#) - Brief description of the project.
+• High-performance web platforms  
+• AI automation systems  
+• messaging & CRM infrastructure  
+• scalable backend architectures
 
 ---
 
-### GitHub Stats
+# Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasDhamankar&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<p align="center">
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=TejasDhamankar&theme=radical)
+<img src="https://skillicons.dev/icons?i=javascript,react,nextjs,nodejs,express,mongodb,docker,git,github,tailwind&perline=10" />
 
----
-
-### Contact Information
-
-- **Email**: [dhamankartejas14@gmail.com](mailto:dhamankartejas14@gmail.com)
-- **Phone**: +91 8262869754
-- **Portfolio**: [portfolio-tejas-murex.vercel.app](https://portfolio-tejas-murex.vercel.app)
-- **[Download Resume](assets/Tejas_Dhamankar_Resume.pdf)**
+</p>
 
 ---
 
-**Last Updated on: 2026-03-06 08:43:04 (UTC)**
+# Featured Project
+
+## ZapTick  
+**Enterprise Messaging Infrastructure Platform**
+
+🌐 https://zaptick.io
+
+ZapTick is designed as a **unified messaging operating system** that enables businesses to run campaigns, automate support, manage conversations, and scale communication across WhatsApp and RCS.
+
+### Core Capabilities
+
+• Broadcast Messaging Campaigns  
+• Workflow Automation  
+• AI Chatbots  
+• Unified Team Inbox  
+• Campaign Analytics  
+• CRM Integrations  
+
+---
+
+# Other Projects
+
+### Xseize — AI Voice Agent CRM
+AI-powered voice calling CRM built using **Twilio, WebSockets, and Bun.js**.
+
+Features:
+- AI Dialer
+- real-time voice interaction
+- CRM pipeline management
+
+---
+
+### JusticeSupportNow
+Legal support platform designed to capture and manage client leads with optimized conversion workflows.
+
+---
+
+### Cohousy
+A real estate listing platform for **co-living spaces near Pune's EON IT Park**.
+
+---
+
+# GitHub Activity
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TejasDhamankar&show_icons=true&hide_border=true&count_private=true&theme=radical" height="170">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TejasDhamankar&theme=radical&hide_border=true" height="170">
+
+</p>
+
+---
+
+# Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TejasDhamankar&theme=github-dark&hide_border=true">
+
+</p>
+
+---
+
+# Contact
+
+📧 Email  
+dhamankartejas14@gmail.com
+
+📱 Phone  
++91 8262869754
+
+🌐 Portfolio  
+https://portfolio-tejas-murex.vercel.app
+
+📄 Resume  
+[Download Resume](assets/Tejas_Dhamankar_Resume.pdf)
+
+---
+
+<p align="center">
+<i>Always building. Always learning.</i>
+</p>
